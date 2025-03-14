@@ -40,3 +40,25 @@ button {
 button:hover {
     background-color: #f39c12;
 }
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    font-size: 18px;
+}
+
+.blue-background {
+    background-color: blue;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
